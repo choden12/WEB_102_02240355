@@ -1,6 +1,5 @@
 # File Upload on the Server Application
-
-A complete backend file upload system using Node.js and Express that integrates with a React/Next.js frontend. This project teaches you how to securely handle multipart form data, validate and store files using Multer, and properly connect the upload flow from client to server with full error handling and progress tracking.
+- A complete backend file upload system using Node.js and Express that integrates with a React/Next.js frontend. This project teaches you how to securely handle multipart form data, validate and store files using Multer, and properly connect the upload flow from client to server with full error handling and progress tracking.
 
 ---
 

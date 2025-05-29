@@ -81,3 +81,4 @@ Videos
 - This TikTok-style backend REST API is a great starting point for building scalable, modular APIs with proper design practices. It is designed for quick prototyping and can be extended with a database and authentication as next steps.
 
 ## Acknowledgments
+- I would like to express my sincere gratitude to my instructor and classmates for their continuous guidance and support throughout this project. Special thanks to the open-source community and the creators of Node.js and Express.js for providing powerful tools that made this project possible. Additionally, I appreciate the helpful resources and tutorials that aided in understanding RESTful API design and best practices.

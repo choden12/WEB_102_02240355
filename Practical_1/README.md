@@ -59,3 +59,4 @@ Sample Endpoints
 - This project is a foundational exercise in creating scalable and maintainable RESTful APIs using best practices. It demonstrates practical skills such as proper endpoint design, HTTP method usage, response formatting, and error management — essential for real-world API development.
 
 ## Acknowledgments
+- I would like to thank my instructor and peers for their valuable guidance and feedback throughout this project. Special appreciation goes to the developers and contributors of the open-source libraries and tools such as Node.js, Express.js, and Morgan, which greatly facilitated the development process. Additionally, I’m grateful for the online resources and communities that provided support and best practices for building robust RESTful APIs.
