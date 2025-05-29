@@ -18,7 +18,7 @@ This project implements a RESTful API backend for a TikTok-style application usi
 ## Installation
 
 1. **Clone the repository**
-   git clone <your-repo-url>
+   git clone <https://github.com/choden12/WEB_102_02240355.git>
    cd server
 2. **Install dependencies**
 npm install
