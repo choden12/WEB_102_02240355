@@ -1,4 +1,4 @@
-# Connecting TikTok to PostgreSQL with Prisma ORM
+# Connecting TikTok to PostgreSQL with Prisma ORM(tiktok server)
 - This practical focuses on integrating a PostgreSQL database into a TikTok clone backend using Prisma ORM. It involves setting up persistent storage, implementing authentication, and migrating in-memory data models to structured relational data with Prisma. You will also build relationships between users, videos, comments, likes, and follows, and apply secure authentication using JWT and bcrypt.
 
 ## Table of Contents

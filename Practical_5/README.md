@@ -1,4 +1,4 @@
-# Implementing Cloud Bucket Storage with Supabase
+# Implementing Cloud Bucket Storage with Supabase (Tiktok server)
 - This practical focuses on upgrading a TikTok web application by migrating from local file storage to cloud storage using Supabase Storage. It enhances scalability, reliability, and performance while supporting better access control for user-uploaded videos and thumbnails.
 
 ## Table of Contents

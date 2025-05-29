@@ -1,4 +1,4 @@
-# TikTok - REST API Design and Implementation
+# TikTok - REST API Design and Implementation (Tiktok server)
 
 This project implements a RESTful API backend for a TikTok-style application using Node.js and Express. The API handles users, videos, comments, likes, and followers, designed to work seamlessly with a Next.js frontend.
 
